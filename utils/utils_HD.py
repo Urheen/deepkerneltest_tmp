@@ -1,6 +1,5 @@
 import numpy as np
 import torch
-import torchvision  # use it for torch.utils.data
 import freqopttest.data as data
 import freqopttest.tst as tst
 import scipy.stats as stats
